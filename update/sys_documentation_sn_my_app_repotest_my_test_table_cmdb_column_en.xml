@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="cmdb_column" label="CMDB column" language="en" table="sn_my_app_repotest_my_test_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cmdb_column</element>
+            <help/>
+            <hint/>
+            <label>CMDB column</label>
+            <language>en</language>
+            <name>sn_my_app_repotest_my_test_table</name>
+            <plural>CMDB columns</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-04 22:36:28</sys_created_on>
+            <sys_id>ddfe6edddba63200f320d65fdf9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CMDB column</sys_name>
+            <sys_package display_value="my_app_repotest" source="sn_my_app_repotest">1a93e65db3223200da73eae2c6a8dc13</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="my_app_repotest">1a93e65db3223200da73eae2c6a8dc13</sys_scope>
+            <sys_update_name>sys_documentation_sn_my_app_repotest_my_test_table_cmdb_column_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-04 22:36:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

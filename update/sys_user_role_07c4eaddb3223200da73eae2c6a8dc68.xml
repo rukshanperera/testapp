@@ -8,7 +8,6 @@
         <grantable>true</grantable>
         <includes_roles/>
         <name>sn_my_app_repotest.my_test_table_user</name>
-        <snbe>false</snbe>
         <suffix>my_test_table_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>

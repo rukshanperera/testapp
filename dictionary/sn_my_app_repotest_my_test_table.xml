@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="my test table" max_length="40" name="sn_my_app_repotest_my_test_table" type="collection">
+        <element label="CMDB column" max_length="40" name="cmdb_column" type="string"/>
         <element label="my test column" max_length="40" name="my_test_column" type="string"/>
     </element>
 </database>
